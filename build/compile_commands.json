@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -DWITH_APPLE -std=c++11 -o CMakeFiles/ceaser_tests.dir/ceaser_tests.cc.o -c /Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser_tests.cc",
+  "file": "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser_tests.cc"
+},
+{
+  "directory": "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/build",
+  "command": "/usr/bin/clang  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -DWITH_APPLE -o CMakeFiles/ceaser_tests.dir/ceaser_getTested.c.o -c /Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser_getTested.c",
+  "file": "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser_getTested.c"
+},
+{
+  "directory": "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/build",
+  "command": "/usr/bin/clang  -I/usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -DWITH_APPLE -o CMakeFiles/ceaser.dir/ceaser.c.o -c /Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser.c",
+  "file": "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser.c"
+}
+]

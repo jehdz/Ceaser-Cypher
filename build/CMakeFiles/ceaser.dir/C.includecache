@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
