@@ -196,6 +196,7 @@ int main(void){
     t = clock() - t; 
     double time_taken = ((double)t)/CLOCKS_PER_SEC; // in seconds 
     printf("\nDecryption took %f seconds to execute \n", time_taken); 
+    printf("\nDecryption output was printed to output.txt file. Check Directory\n"); 
     
   return 0;
 

@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser_getTested.c" "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/build/CMakeFiles/ceaser_tests.dir/ceaser_getTested.c.o"
+  "/Users/jehdz/Desktop/Ceaser-Cypher/ceaser_getTested.c" "/Users/jehdz/Desktop/Ceaser-Cypher/build/CMakeFiles/ceaser_tests.dir/ceaser_getTested.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
@@ -14,7 +14,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/usr/local/include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/ceaser_tests.cc" "/Users/jehdz/Desktop/caesar-cipher-part-2-jehdz/build/CMakeFiles/ceaser_tests.dir/ceaser_tests.cc.o"
+  "/Users/jehdz/Desktop/Ceaser-Cypher/ceaser_tests.cc" "/Users/jehdz/Desktop/Ceaser-Cypher/build/CMakeFiles/ceaser_tests.dir/ceaser_tests.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
